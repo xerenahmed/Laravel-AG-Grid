@@ -1,0 +1,18 @@
+{
+    "name": "xerenahmed/laravel-ag-grid",
+    "description": "Laravel AG Grid query",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "xerenahmed\\LaravelAgGrid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eren A. Akyol",
+            "email": "ahmederen123@gmail.com"
+        }
+    ],
+    "require": {}
+}
